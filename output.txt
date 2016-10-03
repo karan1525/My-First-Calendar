@@ -1,0 +1,109 @@
+            October 2016
+ Sun  Mon  Tue  Wed  Thu  Fri  Sat 
+                                 1
+ [2]    3    4    5    6    7    8
+   9   10   11   12   13   14   15
+  16   17   18   19   20   21   22
+  23   24   25   26   27   28   29
+  30   31
+Select one of the following options:
+[L]oad, [V]iew by, [C]reate, [G]o to, [E]vent list, [D]elete, [Q]uit: 
+This is the first run of this program
+Select one of the following options:
+[L]oad, [V]iew by, [C]reate, [G]o to, [E]vent list, [D]elete, [Q]uit: 
+[D]ay view or [M]onth view? 
+Sun, Oct 2, 2016
+[P]revious or [N]ext or [M]ain menu? 
+Sat, Oct 1, 2016
+[P]revious or [N]ext or [M]ain menu? 
+Sun, Oct 2, 2016
+[P]revious or [N]ext or [M]ain menu? 
+Select one of the following options:
+[L]oad, [V]iew by, [C]reate, [G]o to, [E]vent list, [D]elete, [Q]uit: 
+[D]ay view or [M]onth view? 
+            October 2016
+ Sun  Mon  Tue  Wed  Thu  Fri  Sat 
+                                 1
+   2    3    4    5    6    7    8
+   9   10   11   12   13   14   15
+  16   17   18   19   20   21   22
+  23   24   25   26   27   28   29
+  30   31
+[P]revious or [N]ext or [M]ain menu? 
+            September 2016
+ Sun  Mon  Tue  Wed  Thu  Fri  Sat 
+                       1
+    2    3
+   4    5    6    7    8    9   10
+  11   12   13   14   15   16   17
+  18   19   20   21   22   23   24
+  25   26   27   28   29   30
+[P]revious or [N]ext or [M]ain menu? 
+            August 2016
+ Sun  Mon  Tue  Wed  Thu  Fri  Sat 
+        1
+    2    3    4    5    6
+   7    8    9   10   11   12   13
+  14   15   16   17   18   19   20
+  21   22   23   24   25   26   27
+  28   29   30   31
+[P]revious or [N]ext or [M]ain menu? 
+            July 2016
+ Sun  Mon  Tue  Wed  Thu  Fri  Sat 
+                            1
+    2
+   3    4    5    6    7    8    9
+  10   11   12   13   14   15   16
+  17   18   19   20   21   22   23
+  24   25   26   27   28   29   30
+  31
+[P]revious or [N]ext or [M]ain menu? 
+Select one of the following options:
+[L]oad, [V]iew by, [C]reate, [G]o to, [E]vent list, [D]elete, [Q]uit: 
+Title: 
+Enter date in MM/DD/YYYY format: 
+Enter a starting time: 
+Enter an ending time: 
+[D]ay view or [M]onth view? 
+Sun, Oct 2, 2016
+[P]revious or [N]ext or [M]ain menu? 
+Sat, Oct 1, 2016
+[P]revious or [N]ext or [M]ain menu? 
+Select one of the following options:
+[L]oad, [V]iew by, [C]reate, [G]o to, [E]vent list, [D]elete, [Q]uit: 
+[D]ay view or [M]onth view? 
+            October 2016
+ Sun  Mon  Tue  Wed  Thu  Fri  Sat 
+                                 1
+   2    3    4    5    6    7    8
+   9   10   11   12   13   14   15
+  16   17   18   19   20   21   22
+  23   24   25   26   27   28   29
+  30   31
+[P]revious or [N]ext or [M]ain menu? 
+Select one of the following options:
+[L]oad, [V]iew by, [C]reate, [G]o to, [E]vent list, [D]elete, [Q]uit: 
+Enter a date in MM/DD/YYYY format: 
+Wed, Oct 12, 2016
+
+2016
+Thur, Oct 13 9:00 - 11:00 Office Hours
+
+2017
+Tue, June 20 6:00 - 11:00 Graduation Party
+
+[S]elected or [A]ll? 
+Enter the date (MM/DD/YYYY): 
+
+2016
+Thur, Oct 13 9:00 - 11:00 Office Hours
+
+2017
+Tue, June 20 6:00 - 11:00 Graduation Party
+
+[S]elected or [A]ll? 
+
+Title: 
+Enter date in MM/DD/YYYY format: 
+Enter a starting time: 
+Enter an ending time: 
